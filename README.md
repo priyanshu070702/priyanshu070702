@@ -12,7 +12,4 @@ I am a third year student persuing B-Tech in computer science and engineering (C
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu070702&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu070702&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=priyanshu070702&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
