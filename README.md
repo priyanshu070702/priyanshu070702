@@ -1,7 +1,6 @@
 
 # 💫 About Me:
 I am a third year student persuing B-Tech in computer science and engineering (Core Branch). I am very passionate about learning new things and explore more technological aspects. My areas of interest are C++ and topics of web development. I ma very keep to learn new areas of coding, also compatible with Data Structure and Algorithm.
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media">
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/priyans20bce10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.priyanshu._0707/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-dhapodkar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@priyanshu-dhapodkar2020) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCyIHLig6lEA8MfYWFyqt1hg) 
