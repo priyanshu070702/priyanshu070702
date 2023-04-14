@@ -12,4 +12,10 @@ I am a third year student persuing B-Tech in computer science and engineering (C
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu070702&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu070702&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyanshu070702&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyanshu070702&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
