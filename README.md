@@ -1,6 +1,10 @@
 
 # 💫 About Me:
-I am a third year student persuing B-Tech in computer science and engineering (Core Branch). I am very passionate about learning new things and explore more technological aspects. My areas of interest are C++ and topics of web development. I ma very keep to learn new areas of coding, also compatible with Data Structure and Algorithm.
+As a third-year student pursuing a B.Tech in Computer Science and Engineering with a core focus on C++ and web development, I am fueled by a deep passion for learning and exploring the latest technological advancements. My journey in computer science has been nothing short of exciting as I have dived into various areas of coding, honing my skills in data structures and algorithms along the way.
+
+With a keen eye for detail and a drive to excel, I constantly strive to push my boundaries and broaden my horizons. Whether it's creating efficient algorithms, building responsive websites, or optimizing code for performance, I am always up for a challenge. I am fascinated by the intricate interplay between software and hardware and enjoy delving into the complexities of system-level programming.
+
+With an insatiable thirst for knowledge and a passion for coding, I am excited to continue my journey of exploration and innovation, eager to make a meaningful contribution to the world of technology.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/priyans20bce10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.priyanshu._0707/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-dhapodkar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@priyanshu-dhapodkar2020) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCyIHLig6lEA8MfYWFyqt1hg) 
